@@ -62,7 +62,7 @@
             </div>
 
             <div class="flex items-center gap-x-6">
-                <a href="/jobs/{{ $job->id }}" class="text-sm font-semibold leading-6 text-gray-900">Cancel</a>
+                <a href="/jobs/show/{{ $job->id }}" class="text-sm font-semibold leading-6 text-gray-900">Cancel</a>
 
                 <div>
                     <button type="submit"
