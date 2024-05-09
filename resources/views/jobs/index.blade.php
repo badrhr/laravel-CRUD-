@@ -3,7 +3,6 @@
          The available Jobs
     </x-slot:heading>
 
-
     <ul>
         @foreach($jobs as $job)
             <a href="/jobs/show/{{$job['id']}}">
