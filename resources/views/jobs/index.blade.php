@@ -1,7 +1,6 @@
 <x-layout>
     <x-slot:heading>
          The available Jobs
-
     </x-slot:heading>
 
 
